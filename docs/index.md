@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# 欢迎来到行者书单
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是佛法修行人的书单
 
 ## Commands
 
