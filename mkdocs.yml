@@ -2,8 +2,9 @@ site_name: 行者书单
 nav:
   - 首页: index.md
   - 念佛净土: nianfo.md
-  - 般若中道: bore.md
-  - 唯识种智: weishi.md
   - 阿含解脱: ahan.md
   - 法与次法: cifa.md
+  - 般若中道: bore.md
+  - 唯识种智: weishi.md
+  - 法华涅槃: fahua.md
   - 法义辨正: bianzheng.md
