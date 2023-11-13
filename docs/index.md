@@ -1,17 +1,11 @@
 # 欢迎来到行者书单
 
-这里是佛法修行人的书单
+这里是佛法修行人的书单，免费借阅。
 
-## Commands
+## 热门推荐
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+![真实如来藏](img/zhenshirulaizang.jpg)![念佛三昧修学次第](img/nianfosanmeixiuxuecidi.jpg)![阿含概论](img/ahangailun.jpg)![优婆塞戒经讲记](img/youposaijiejingjiangji.jpg)![禅-悟前与悟后](img/chanwuqianyuwuhou.jpg)![心经密意](img/xinjingmiyi.jpg)![法华经讲义](img/fahuajingjiangyi.jpg)![邪见与佛法](img/xiejianyufofa.jpg)![楞严经讲记](img/lengyanjingjiangji2.jpg)
 
-## Project layout
+## 联系咨询
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![联系我](img/wx_qrcode.jpg)
