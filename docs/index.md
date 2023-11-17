@@ -4,7 +4,12 @@
 
 ## 热门推荐
 
-![真实如来藏](img/zhenshirulaizang.jpg)![念佛三昧修学次第](img/nianfosanmeixiuxuecidi.jpg)![阿含概论](img/ahangailun.jpg)![优婆塞戒经讲记](img/youposaijiejingjiangji.jpg)![禅-悟前与悟后](img/chanwuqianyuwuhou.jpg)![心经密意](img/xinjingmiyi.jpg)![法华经讲义](img/fahuajingjiangyi.jpg)![邪见与佛法](img/xiejianyufofa.jpg)![楞严经讲记](img/lengyanjingjiangji2.jpg)
+![真实如来藏](img/zhenshirulaizang.jpg)|![念佛三昧修学次第](img/nianfosanmeixiuxuecidi.jpg)
+---|---
+![阿含概论](img/ahangailun.jpg)|![优婆塞戒经讲记](img/youposaijiejingjiangji.jpg)
+![禅-悟前与悟后](img/chanwuqianyuwuhou.jpg)|![心经密意](img/xinjingmiyi.jpg)
+![法华经讲义](img/fahuajingjiangyi.jpg)|![邪见与佛法](img/xiejianyufofa.jpg)
+![楞严经讲记](img/lengyanjingjiangji2.jpg)|![宗通与说通](img/zongtongyushuotong.jpg)
 
 ## 联系咨询
 
