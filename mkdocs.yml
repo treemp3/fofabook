@@ -1,4 +1,5 @@
 site_name: 行者书单
+site_description: 佛法修行人的书单
 nav:
   - 首页: index.md
   - 念佛净土: nianfo.md
