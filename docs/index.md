@@ -13,6 +13,10 @@
 ![法华经讲义](img/fahuajingjiangyi.jpg)|![邪见与佛法](img/xiejianyufofa.jpg)
 ![楞严经讲记](img/lengyanjingjiangji2.jpg)|![宗通与说通](img/zongtongyushuotong.jpg)
 
+## 电子书下载
+
+推荐您在手机、平板、台式电脑上安装电子书APP，在平板和台式电脑上的阅读效果最佳，若您不会在台式电脑上安装及购买，请长按或扫描下方二维码添加好友咨询，APP下载链接：[点此下载](file/enlighten_android_1911_63_x64_19_11.apk)
+
 ## 联系咨询
 
 ![联系我](img/wx_qrcode.jpg)
